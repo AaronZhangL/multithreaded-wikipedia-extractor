@@ -1,6 +1,7 @@
 multithreaded-wikipedia-extractor
 ================================
-https://bitbucket.org/leonardossz/multithreaded-wikipedia-extractor/wiki/Home
+Clone from:  
+	https://bitbucket.org/leonardossz/multithreaded-wikipedia-extractor/wiki/Home
 
 # Welcome
 This is a multithreaded version of the original WikipediaExtractor
